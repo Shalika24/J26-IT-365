@@ -204,4 +204,4 @@ Start with `docs/SETUP.md` for repository setup and `docs/CONTRIBUTING.md` for t
 
 ---
 
-_This is an academic research and development project. Listed functionality and metrics represent planned work unless explicitly marked as implemented._
+
