@@ -1,0 +1,6 @@
+spring.application.name=apigateway
+server.port=8080
+
+# ── NLU Tutor Service ──────────────────────────────────────────
+# URL of the FastAPI NLU microservice (apps/scripts/nlu_engine)
+nlu.service.url=${NLU_SERVICE_URL:http://localhost:8000}
